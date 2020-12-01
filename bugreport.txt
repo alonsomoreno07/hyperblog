@@ -1,24 +1,2 @@
-date/time          : 2020-07-06, 01:06:04, 818ms
-computer name      : TEST-PC
-user name          : Test
-registered owner   : Microsoft / Microsoft
-operating system   : Windows 7 x64 Service Pack 1 build 7601
-system language    : English
-system up time     : 19 hours 38 minutes
-program up time    : 18 hours 33 minutes
-processors         : 2x Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
-physical memory    : 460/4096 MB (free/total)
-free disk space    : (C:) 93.71 GB
-display mode       : 1920x976, 32 bit
-process id         : $13d0
-allocated memory   : 82.57 MB
-largest free block : 1.65 GB
-executable         : heidisql.exe
-exec. date/time    : 2019-06-15 08:03
-version            : 10.2.0.5599
-compiled with      : Delphi 10.3 Rio
-madExcept version  : 5.0.0
-callstack crc      : $d1482c12, $8f2c8972, $798e469b
-exception number   : 8
-exception class    : EAccessViolation
-exception message  : Access violation at address 008C960E in module 'heidisql.exe'. Read of address 65636391.
+Alonso Moreno
+Este es una historia de su vida.
